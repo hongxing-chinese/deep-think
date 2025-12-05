@@ -4,9 +4,9 @@
   "version": "0.10.1",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/lilingfengdev/deep-think"
+    "url": "https://github.com/hongxing-chinese/deep-think"
   },
-  "bugs": "https://github.com/lilingfengdev/deep-think/issues",
+  "bugs": "https://github.com/hongxing-chinese/deep-think/issues",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",

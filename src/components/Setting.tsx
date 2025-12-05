@@ -2923,7 +2923,7 @@ function Setting({ open, onClose }: SettingProps) {
                       (
                       <a
                         className="hover:underline hover:underline-offset-4 hover:text-blue-500"
-                        href="https://github.com/lilingfengdev/deep-think"
+                        href="https://github.com/hongxing-chinese/deep-think"
                         target="_blank"
                       >
                         {t("setting.checkForUpdate")}
